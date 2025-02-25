@@ -1,4 +1,4 @@
-# Sittikhet K's Data Analyst Portfolio
+# Data Analyst Portfolio
 ## Education
 ### Master of Business Analytics (Extension) 
 University of Technology Sydney (UTS)
